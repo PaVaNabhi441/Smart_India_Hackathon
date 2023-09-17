@@ -7,4 +7,4 @@ Link for Spotify: https://pavanabhi441.github.io/Spotify/
 
 Link for Netflix: https://srikanthvuppala7.github.io/Netflix_Clone_Srikanth/
 
-Link for Microsoft clone: 
+Link for Microsoft clone: https://pavanabhi441.github.io/MicrosoftClone.TM/
